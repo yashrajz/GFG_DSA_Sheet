@@ -4,7 +4,6 @@ import java.util.Stack;
 
 public class RemoveKDigits {
     public String removeKdig(String s, int k) {
-        int n = s.length();
         Stack<Character> st = new Stack<>();
 
         for (int i = 0; i < s.length(); ++i) {
