@@ -34,6 +34,7 @@ public class ArrayListExample {
             System.out.println(list.get(i)); // list[i] doesn't work with ArrayList
         }
 
+        sc.close();
 
 
 
