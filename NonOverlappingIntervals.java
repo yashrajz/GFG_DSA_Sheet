@@ -9,6 +9,8 @@ public class NonOverlappingIntervals {
         
         //sorting using start point;
         Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+
+        // this will store the non-overlapping intervals;
         
         //to store the result;
         ArrayList<int[]> res = new ArrayList<>();
