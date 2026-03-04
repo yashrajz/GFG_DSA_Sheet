@@ -9,6 +9,7 @@ public class SortAccordingToAnArray {
         Map<Integer, Integer> freq = new HashMap<>();
         
         //counting freq of a1;
+        
         for (int num : a1) {
             freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
