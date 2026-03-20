@@ -12,6 +12,7 @@ public class SubarraysWithFirstElementMinimum {
              && arr[st.peek()] >= arr[i])
         st.pop();
         
+        
       // The index of next smaller element
       // starting from i'th index
       int last = ((st.empty() == true) ? n : st.peek());
