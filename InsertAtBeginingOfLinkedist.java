@@ -1,3 +1,5 @@
+//www.geeksforgeeks.org/batch/skill-up-dsa/track/su-dsa-topic-wise-week8/problem/linked-list-insertion-at-beginning
+
 public class InsertAtBeginingOfLinkedist {
 
     class Node {
