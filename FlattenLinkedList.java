@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+//www.geeksforgeeks.org/batch/skill-up-dsa/track/su-dsa-topic-wise-week8/problem/flattening-a-linked-list
+
+import java.util.*;
 
 public class FlattenLinkedList {
     
